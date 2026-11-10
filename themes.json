@@ -1,0 +1,32 @@
+[
+  {
+    "id": "demo-1",
+    "name": "ثيم تجريبي 1",
+    "brand": "Honor",
+    "category": "dark",
+    "type": "hwt",
+    "version": "1.0",
+    "size": "10 MB",
+    "previewImages": [],
+    "downloadUrl": "",
+    "rating": 4.8,
+    "downloads": 0,
+    "addedAt": "2026-11-10",
+    "compatibility": ["Magic UI 8"]
+  },
+  {
+    "id": "demo-2",
+    "name": "ثيم تجريبي 2",
+    "brand": "Huawei",
+    "category": "nature",
+    "type": "hwt",
+    "version": "1.0",
+    "size": "12 MB",
+    "previewImages": [],
+    "downloadUrl": "",
+    "rating": 4.7,
+    "downloads": 0,
+    "addedAt": "2026-11-10",
+    "compatibility": ["HarmonyOS 4"]
+  }
+]
