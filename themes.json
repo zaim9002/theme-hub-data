@@ -35,7 +35,7 @@
   {
     "id": "space-43050",
     "name": "Space",
-    "brand": "Huawei",
+    "brand": "Honor",
     "category": "داكن",
     "type": "hnt",
     "version": "v1.0",
@@ -51,18 +51,20 @@
     "downloads": 0,
     "addedAt": 1794676953116,
     "compatibility": [
-      "EMUI 12 / 13 / HarmonyOS"
+      "MagicOS 7.0 - 9.0"
     ],
     "description": "ثيم SPACE بتصميم ملصق فضائي عصري: رائد فضاء عائم فوق قمر بشعار «SPACE» وخط أحمر منحنٍ، وسط مدارات وكواكب بخطوط رفيعة. يأتي بثلاثة أنماط (داكن، أبيض وأسود، أزرق)، مع شاشة قفل تفاعلية بثلاثة تصاميم، وشاشة AOD بالقمر والساعة ونسبة البطارية، وأيقونات بنمط آيفون، وودجت ساعة وطقس.\nالوصف بالإنجليزية:\nSPACE is a modern poster-style space theme featuring a floating astronaut over a moon with a red-swoosh SPACE logo, surrounded by thin orbits and planets. Includes three styles (dark, black & white, blue), an interactive lock screen with three layouts, an Always-On Display with the moon, clock and battery level, iPhone-style icons, and a clock and weather widget.",
     "variants": [
       {
-        "brand": "Huawei",
+        "brand": "Honor",
         "format": "hnt",
-        "compat": "EMUI 12 / 13 / HarmonyOS",
+        "compat": "MagicOS 7.0 - 9.0",
         "file_url": "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/themes/space-43050-huawei.hnt",
         "size": "6.7 MB"
       }
-    ]
+    ],
+    "description_ar": "ثيم SPACE بتصميم ملصق فضائي عصري: رائد فضاء عائم فوق قمر بشعار «SPACE» وخط أحمر منحنٍ، وسط مدارات وكواكب بخطوط رفيعة. يأتي بثلاثة أنماط (داكن، أبيض وأسود، أزرق)، مع شاشة قفل تفاعلية بثلاثة تصاميم، وشاشة AOD بالقمر والساعة ونسبة البطارية، وأيقونات بنمط آيفون، وودجت ساعة وطقس.\nالوصف بالإنجليزية:",
+    "description_en": "SPACE is a modern poster-style space theme featuring a floating astronaut over a moon with a red-swoosh SPACE logo, surrounded by thin orbits and planets. Includes three styles (dark, black & white, blue), an interactive lock screen with three layouts, an Always-On Display with the moon, clock and battery level, iPhone-style icons, and a clock and weather widget."
   },
   {
     "id": "demo-1",
