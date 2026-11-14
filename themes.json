@@ -1,5 +1,38 @@
 [
   {
+    "id": "s18-tm-emerald-46455",
+    "name": "S18_TM_EMERALD",
+    "brand": "Honor",
+    "category": "طبيعة",
+    "type": "hnt",
+    "version": "v1.0",
+    "size": "96.3 MB",
+    "previewImages": [
+      "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/s18-tm-emerald-46455-p1.webp",
+      "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/s18-tm-emerald-46455-p2.webp",
+      "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/s18-tm-emerald-46455-p3.webp"
+    ],
+    "downloadUrl": "https://github.com/zaim9002/theme-hub-data/releases/download/themes-large/s18-tm-emerald-46455-honor.hnt",
+    "rating": 5,
+    "downloads": 0,
+    "addedAt": 1794682265183,
+    "compatibility": [
+      "MagicOS 7.0 - 9.0"
+    ],
+    "description": "نعود إليكم بعد انقطاع طويل بأول ثيم من سلسلة الثيمات الملوّنة! 🎨❤️‍🔥\n\n🌿 المميزات:\n🟢 أيقونات خضراء أنيقة.\n🖼️ 3 خلفيات متناسقة.\n🕒 ساعات بتأثيرات زجاجية.\n👆 تغيير الخلفية بالنقر المزدوج.\n⬇️ اسحب للأسفل لتغيير شكل الساعة.\n\n💚✨ S18_TM_EMERALD — The Beginning of a Colorful Journey!\n\nAfter a long break, we're back with the first theme in our colorful series! 🎨\n\n🌿 Features:\n🟢 Elegant green icons.\n🖼️ 3 matching wallpapers.\n🕒 Glass-effect clock styles.\n👆 Double-tap to change wallpaper.\n⬇️ Swipe down to change clock styles.",
+    "description_ar": "نعود إليكم بعد انقطاع طويل بأول ثيم من سلسلة الثيمات الملوّنة! 🎨❤️‍🔥\n\n🌿 المميزات:\n🟢 أيقونات خضراء أنيقة.\n🖼️ 3 خلفيات متناسقة.\n🕒 ساعات بتأثيرات زجاجية.\n👆 تغيير الخلفية بالنقر المزدوج.\n⬇️ اسحب للأسفل لتغيير شكل الساعة.",
+    "description_en": "💚✨ S18_TM_EMERALD — The Beginning of a Colorful Journey!\n\nAfter a long break, we're back with the first theme in our colorful series! 🎨\n\n🌿 Features:\n🟢 Elegant green icons.\n🖼️ 3 matching wallpapers.\n🕒 Glass-effect clock styles.\n👆 Double-tap to change wallpaper.\n⬇️ Swipe down to change clock styles.",
+    "variants": [
+      {
+        "brand": "Honor",
+        "format": "hnt",
+        "compat": "MagicOS 7.0 - 9.0",
+        "file_url": "https://github.com/zaim9002/theme-hub-data/releases/download/themes-large/s18-tm-emerald-46455-honor.hnt",
+        "size": "96.3 MB"
+      }
+    ]
+  },
+  {
     "id": "space-43050",
     "name": "Space",
     "brand": "Huawei",
