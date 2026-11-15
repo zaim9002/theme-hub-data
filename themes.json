@@ -101,23 +101,6 @@
     "description_en": "SPACE is a modern poster-style space theme featuring a floating astronaut over a moon with a red-swoosh SPACE logo, surrounded by thin orbits and planets. Includes three styles (dark, black & white, blue), an interactive lock screen with three layouts, an Always-On Display with the moon, clock and battery level, iPhone-style icons, and a clock and weather widget."
   },
   {
-    "id": "demo-1",
-    "name": "ثيم تجريبي 1",
-    "brand": "Honor",
-    "category": "dark",
-    "type": "hwt",
-    "version": "1.0",
-    "size": "10 MB",
-    "previewImages": [],
-    "downloadUrl": "",
-    "rating": 4.8,
-    "downloads": 0,
-    "addedAt": "2026-11-10",
-    "compatibility": [
-      "Magic UI 8"
-    ]
-  },
-  {
     "id": "demo-2",
     "name": "ثيم تجريبي 2",
     "brand": "Huawei",
