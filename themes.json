@@ -99,22 +99,5 @@
     ],
     "description_ar": "ثيم SPACE بتصميم ملصق فضائي عصري: رائد فضاء عائم فوق قمر بشعار «SPACE» وخط أحمر منحنٍ، وسط مدارات وكواكب بخطوط رفيعة. يأتي بثلاثة أنماط (داكن، أبيض وأسود، أزرق)، مع شاشة قفل تفاعلية بثلاثة تصاميم، وشاشة AOD بالقمر والساعة ونسبة البطارية، وأيقونات بنمط آيفون، وودجت ساعة وطقس.\nالوصف بالإنجليزية:",
     "description_en": "SPACE is a modern poster-style space theme featuring a floating astronaut over a moon with a red-swoosh SPACE logo, surrounded by thin orbits and planets. Includes three styles (dark, black & white, blue), an interactive lock screen with three layouts, an Always-On Display with the moon, clock and battery level, iPhone-style icons, and a clock and weather widget."
-  },
-  {
-    "id": "demo-2",
-    "name": "ثيم تجريبي 2",
-    "brand": "Huawei",
-    "category": "nature",
-    "type": "hwt",
-    "version": "1.0",
-    "size": "12 MB",
-    "previewImages": [],
-    "downloadUrl": "",
-    "rating": 4.7,
-    "downloads": 0,
-    "addedAt": "2026-11-10",
-    "compatibility": [
-      "HarmonyOS 4"
-    ]
   }
 ]
