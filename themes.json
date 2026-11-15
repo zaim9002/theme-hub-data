@@ -1,5 +1,91 @@
 [
   {
+    "id": "xos-16-theme-81085",
+    "name": "Xos 16 theme",
+    "brand": "Honor",
+    "category": "طبيعة",
+    "type": "hnt",
+    "version": "v1.0",
+    "size": "الحجم 60mb",
+    "previews": [
+      {
+        "type": "image",
+        "url": "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/xos-16-theme-81085-p1.jpg",
+        "thumb": "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/xos-16-theme-81085-p1-thumb.webp",
+        "poster": "",
+        "width": 582,
+        "height": 1280
+      },
+      {
+        "type": "image",
+        "url": "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/xos-16-theme-81085-p2.jpg",
+        "thumb": "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/xos-16-theme-81085-p2-thumb.webp",
+        "poster": "",
+        "width": 582,
+        "height": 1280
+      },
+      {
+        "type": "image",
+        "url": "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/xos-16-theme-81085-p3.jpg",
+        "thumb": "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/xos-16-theme-81085-p3-thumb.webp",
+        "poster": "",
+        "width": 582,
+        "height": 1280
+      },
+      {
+        "type": "image",
+        "url": "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/xos-16-theme-81085-p4.jpg",
+        "thumb": "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/xos-16-theme-81085-p4-thumb.webp",
+        "poster": "",
+        "width": 582,
+        "height": 1280
+      },
+      {
+        "type": "image",
+        "url": "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/xos-16-theme-81085-p5.jpg",
+        "thumb": "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/xos-16-theme-81085-p5-thumb.webp",
+        "poster": "",
+        "width": 561,
+        "height": 284
+      },
+      {
+        "type": "video",
+        "url": "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/themes/xos-16-theme-81085-p6.mp4",
+        "thumb": "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/xos-16-theme-81085-p6-thumb.webp",
+        "poster": "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/xos-16-theme-81085-p6-poster.jpg",
+        "width": 872,
+        "height": 1920
+      }
+    ],
+    "previewImages": [
+      "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/xos-16-theme-81085-p1.jpg",
+      "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/xos-16-theme-81085-p2.jpg",
+      "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/xos-16-theme-81085-p3.jpg",
+      "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/xos-16-theme-81085-p4.jpg",
+      "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/xos-16-theme-81085-p5.jpg",
+      "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/xos-16-theme-81085-p6-poster.jpg"
+    ],
+    "downloadUrl": "https://exe.io/abDHtD",
+    "rating": 0,
+    "downloads": 0,
+    "addedAt": 1794768432022,
+    "compatibility": [
+      "MagicOS 7.0 - 9.0"
+    ],
+    "description": "Non",
+    "description_ar": "Non",
+    "description_en": "",
+    "variants": [
+      {
+        "brand": "Honor",
+        "format": "hnt",
+        "compat": "MagicOS 7.0 - 9.0",
+        "file_url": "https://exe.io/abDHtD",
+        "size": "الحجم 60mb"
+      }
+    ]
+  },
+  {
     "id": "visiongt-hwt-21009",
     "name": "VisionGT.hwt",
     "brand": "Honor",
