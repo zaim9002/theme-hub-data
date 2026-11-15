@@ -1,5 +1,39 @@
 [
   {
+    "id": "escape-the-planet-43970",
+    "name": "Escape The Planet",
+    "brand": "Honor",
+    "category": "داكن",
+    "type": "hnt",
+    "version": "v1.0",
+    "size": "16.2 MB",
+    "previewImages": [
+      "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/escape-the-planet-43970-p1.webp",
+      "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/escape-the-planet-43970-p2.webp",
+      "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/escape-the-planet-43970-p3.webp",
+      "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/previews/escape-the-planet-43970-p4.webp"
+    ],
+    "downloadUrl": "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/themes/escape-the-planet-43970-honor.hnt",
+    "rating": 5,
+    "downloads": 0,
+    "addedAt": 1794743157033,
+    "compatibility": [
+      "MagicOS 7.0+ / Magic UI (Honor)"
+    ],
+    "description": "ثيم Escape The Planet بتصميم كولاج فضائي سريالي: قمر ضخم وكواكب المشتري وزحل ورائد فضاء، فوق منازل ريفية وصحراء بصبار وجبال وبحيرة، بلمسات قصاصات ورقية بحواف بيضاء وعبارة «ESCAPE THE PLANET». يتضمن ثلاثة تصاميم لشاشة القفل بساعة وتاريخ بلون كريمي دافئ، وخلفية داكنة للشاشة الرئيسية بنجوم وقمر، وأيقونات بنمط عصري، وودجت ساعة وطقس وشاشة AOD.\n\nEscape The Planet is a surreal space-collage theme: a giant moon, Jupiter, Saturn and an astronaut above countryside houses, desert cacti, mountains and a lake, styled as white-edged paper cutouts with the \"ESCAPE THE PLANET\" tagline. Includes three lock-screen layouts with a warm cream clock and date, a dark starry home wallpaper, modern icons, a clock and weather widget, and an Always-On Display.",
+    "description_ar": "ثيم Escape The Planet بتصميم كولاج فضائي سريالي: قمر ضخم وكواكب المشتري وزحل ورائد فضاء، فوق منازل ريفية وصحراء بصبار وجبال وبحيرة، بلمسات قصاصات ورقية بحواف بيضاء وعبارة «ESCAPE THE PLANET». يتضمن ثلاثة تصاميم لشاشة القفل بساعة وتاريخ بلون كريمي دافئ، وخلفية داكنة للشاشة الرئيسية بنجوم وقمر، وأيقونات بنمط عصري، وودجت ساعة وطقس وشاشة AOD.",
+    "description_en": "Escape The Planet is a surreal space-collage theme: a giant moon, Jupiter, Saturn and an astronaut above countryside houses, desert cacti, mountains and a lake, styled as white-edged paper cutouts with the \"ESCAPE THE PLANET\" tagline. Includes three lock-screen layouts with a warm cream clock and date, a dark starry home wallpaper, modern icons, a clock and weather widget, and an Always-On Display.",
+    "variants": [
+      {
+        "brand": "Honor",
+        "format": "hnt",
+        "compat": "MagicOS 7.0+ / Magic UI (Honor)",
+        "file_url": "https://raw.githubusercontent.com/zaim9002/theme-hub-data/main/themes/escape-the-planet-43970-honor.hnt",
+        "size": "16.2 MB"
+      }
+    ]
+  },
+  {
     "id": "s18-tm-emerald-46455",
     "name": "S18_TM_EMERALD",
     "brand": "Honor",
